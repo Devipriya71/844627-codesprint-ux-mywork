@@ -1,0 +1,17 @@
+My associate id:
+844627
+
+Other team members:
+844603, 844551, 844561, 844513
+
+Team lead:
+844603
+
+My Role in team:
+1. To develop validations in placeappointment component.
+2. To create and develop placeappointment and view appointment components.
+
+My development files:
+1. place-appointment component
+2. view-appointment component
+
